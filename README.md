@@ -1,7 +1,14 @@
 # Maze Solving Bot
 
-Simulation of Robot using Robot Operating System for solving a custom environment of Maze created in GAZEBO using wall follower algorithm.
+To simulate a Robot using Robot Operating System for solving a custom environment of Maze created in GAZEBO.
 
+## Algorithm used
+
+Wall follower (left hand rule)
+
+## Tools
+
+Ros,Gazebo
 
 ## Python Requirements
 
